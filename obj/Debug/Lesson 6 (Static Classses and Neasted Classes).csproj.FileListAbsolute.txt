@@ -1,0 +1,7 @@
+D:\Study\Tasks made by me\Home codes\C#\Lesson 6 (Static Classses and Neasted Classes)\bin\Debug\Lesson 6 (Static Classses and Neasted Classes).exe.config
+D:\Study\Tasks made by me\Home codes\C#\Lesson 6 (Static Classses and Neasted Classes)\bin\Debug\Lesson 6 (Static Classses and Neasted Classes).exe
+D:\Study\Tasks made by me\Home codes\C#\Lesson 6 (Static Classses and Neasted Classes)\bin\Debug\Lesson 6 (Static Classses and Neasted Classes).pdb
+D:\Study\Tasks made by me\Home codes\C#\Lesson 6 (Static Classses and Neasted Classes)\obj\Debug\Lesson 6 (Static Classses and Neasted Classes).csproj.AssemblyReference.cache
+D:\Study\Tasks made by me\Home codes\C#\Lesson 6 (Static Classses and Neasted Classes)\obj\Debug\Lesson 6 (Static Classses and Neasted Classes).csproj.CoreCompileInputs.cache
+D:\Study\Tasks made by me\Home codes\C#\Lesson 6 (Static Classses and Neasted Classes)\obj\Debug\Lesson 6 (Static Classses and Neasted Classes).exe
+D:\Study\Tasks made by me\Home codes\C#\Lesson 6 (Static Classses and Neasted Classes)\obj\Debug\Lesson 6 (Static Classses and Neasted Classes).pdb
